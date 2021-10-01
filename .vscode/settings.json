@@ -10,7 +10,7 @@
       "**/CVS": true,
       "**/.DS_Store": true,
       "**/.angulardoc.json": true,
-      "**/.gitignore": false,
+      "**/.gitignore": true,
       "**/.editorconfig": true,
       "**/browserslist": true,
       "**/karma.conf.js": true,

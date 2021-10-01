@@ -14,8 +14,8 @@
 ## 🚀 Restaurant App
 
 - This app is for Portfolio purposes, it contains a fully functional mini-app in React Native (4 Screens)
-- It is intended to show how I code, my coding style, etc.
-- Eventually this app is planned to keep growing and I intend to add a backend in .NET 5.
+- It is intended to show my coding style, best practices, etc.
+- Eventually this app is planned to keep growing and will have a backend in .NET 5.
 
 ## 🚀 Technologies Used for this app
 - Expo
